@@ -1,11 +1,11 @@
-# HTML5-FINAL-PROJECT
+#HTML5-Final-Project
 Coursera HTML5 Final Project
 This is the code that I have written to pass the Final Project Exam for the Coursera HTML5 Course
 
 Attachments:
-finalproject.html
-ProjectDescription.png The ProjectDesciption is what you need to replicate using your code except the highlighted yellow content
-Source Code
+->finalproject.html
+->ProjectDescription.png The ProjectDesciption is what you need to replicate using your code except the highlighted yellow content
+#source code
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -59,7 +59,7 @@ Source Code
     
 </body>
 </html>
-Output![Finalproject](https://user-images.githubusercontent.com/112688200/199452628-f47f5361-a6e8-4bfc-9b87-9eec40d7f00e.png):
-![Uploading Finalproject.png…]()
+#output:
+![Finalproject](https://user-images.githubusercontent.com/112688200/199454409-3effa796-2a94-4dee-afc4-3ebca3d9e288.png)
 
 
